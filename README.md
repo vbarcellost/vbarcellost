@@ -1,16 +1,29 @@
-## Hi there 👋
+# Vitória Barcellos
 
-<!--
-**vbarcellost/vbarcellost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedora Full Stack
 
-Here are some ideas to get you started:
+Construo aplicações web com foco em interfaces responsivas, APIs em Java e qualidade de software por meio de testes automatizados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- **Front-end:** React, Vue.js, TypeScript, JavaScript, HTML e CSS
+- **Back-end:** Java, Spring Boot e microsserviços
+- **Qualidade:** Cypress e testes automatizados
+
+## Projetos em destaque
+
+| Projeto | Destaque |
+| --- | --- |
+| [Lista de contatos](https://github.com/vbarcellost/projeto5) | React, Redux e Styled Components |
+| [Testes E2E](https://github.com/vbarcellost/Cypress) | Automação de testes com Cypress |
+| [Microsserviços](https://github.com/vbarcellost/microservicos) | Desenvolvimento back-end em Java |
+| [Spring Boot](https://github.com/vbarcellost/SpringBoot) | Aplicações Java com Spring Boot |
+| [Le Forné](https://github.com/vbarcellost/leforne) | Landing page responsiva |
+| [Calculadora IMC](https://github.com/vbarcellost/react) | Interface em React |
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/torresvbarcellos/)
+- [GitHub](https://github.com/vbarcellost)
+
+Estou aberta a oportunidades para atuar como Desenvolvedora Full Stack.
