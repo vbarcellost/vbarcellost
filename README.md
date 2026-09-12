@@ -24,6 +24,5 @@ Construo aplicações web com foco em interfaces responsivas, APIs em Java e qua
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/torresvbarcellos/)
-- [GitHub](https://github.com/vbarcellost)
 
 Estou aberta a oportunidades para atuar como Desenvolvedora Full Stack.
